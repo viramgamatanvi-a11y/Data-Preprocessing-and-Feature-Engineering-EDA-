@@ -137,4 +137,5 @@ pip install pandas numpy scikit-learn scipy
 This project demonstrates the complete data cleaning process by handling missing values and outliers using multiple preprocessing techniques. The final cleaned dataset is more accurate, consistent, and ready for further analysis and machine learning applications.
 
 # 📌 Video Explanation Link : 
-https://drive.google.com/file/d/1l_vupDFYL2bub26xymGisZFJRvpCmZ9I/view?usp=drive_link
+
+https://drive.google.com/file/d/1l_vupDFYL2bub26xymGisZFJRvpCmZ9I/view?usp=sharing
