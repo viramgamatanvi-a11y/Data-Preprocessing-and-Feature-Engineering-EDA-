@@ -1,0 +1,14 @@
+DROP TABLE IF EXISTS products;
+CREATE TABLE products (product_id TEXT PRIMARY KEY, product_name TEXT, category TEXT, price INTEGER, stock INTEGER);
+INSERT INTO products VALUES ('P001','Earphones','Electronics',499,120);
+INSERT INTO products VALUES ('P002','Bluetooth Speaker','Audio',699,85);
+INSERT INTO products VALUES ('P003','Smart Watch','Wearable',1299,65);
+INSERT INTO products VALUES ('P004','Keyboard','Computer',899,90);
+INSERT INTO products VALUES ('P005','Headphones','Audio',1999,55);
+INSERT INTO products VALUES ('P006','Power Bank','Mobile Accessories',2599,40);
+INSERT INTO products VALUES ('P007','Mouse','Computer',599,100);
+INSERT INTO products VALUES ('P008','USB Cable','Accessories',299,150);
+INSERT INTO products VALUES ('P009','Laptop Stand','Computer',999,70);
+INSERT INTO products VALUES ('P010','Webcam','Computer',1499,45);
+INSERT INTO products VALUES ('P011','Tablet','Electronics',15999,20);
+INSERT INTO products VALUES ('P012','Smartphone','Electronics',24999,18);
